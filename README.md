@@ -2,7 +2,7 @@
 
 #### A HTML file, 05/26/2020
 
-#### By Evgeniya Chernaya, Kelly Eidsvik
+#### By Evgeniya Chernaya
 
 ## Description
 
@@ -10,9 +10,9 @@ Website with the learing goals
 
 ## Setup/Installation Requirements
 
-* Clone from the reposetory
-* Double click on my-first-webpage.html file
-* See the result in the browser (I used Chrome)
+* Clone/download from the repository
+* Double click on favorite-places.html file
+* See the result in the browser
 
 ## Technologies Used
 
